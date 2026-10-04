@@ -27,9 +27,6 @@ This profile is basically a collection of the things I'm building, learning, exp
   <a href="https://github.com/Architttttt-j">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/archit-jedge-9a55ba315/?isSelfProfile=true">
-    <img src="linked.webp" alt="LinkedIn" width="32"/>
-  </a>
 </p>
 
 ---
