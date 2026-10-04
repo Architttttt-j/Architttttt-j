@@ -1,7 +1,7 @@
 # Hi, I'm Archit 👋
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/176208111?v=4" alt="Archit's profile picture" width="140" style="border-radius: 50%;"/>
+  <img src="pfp.png" alt="Archit's profile picture" width="140" style="border-radius: 50%;"/>
 </p>
 
 I'm an engineering student from Pune, India, currently exploring, learning, and building things along the way.
