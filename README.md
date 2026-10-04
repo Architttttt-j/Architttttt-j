@@ -6,38 +6,31 @@
 
 I'm an engineering student from Pune, India, currently exploring, learning, and building things along the way.
 
-I enjoy working on personal projects, experimenting with new ideas, solving problems, and learning from the things I build.
+I like turning random ideas into projects, breaking things just to understand how they work, and occasionally spending way too much time fixing something that should have taken five minutes. 😄
+
+This profile is basically a collection of the things I'm building, learning, experimenting with, and sometimes completely messing up.
 
 ---
 
-### 🌱 Currently
+### Currently
 
-* 🎓 Studying Engineering
-* 🔨 Building projects and experimenting with ideas
-* 📚 Learning something new every day
-* 🧩 Improving my problem-solving skills
-* 🚀 Exploring new areas of technology
-
----
-
-### 📌 A Little About Me
-
-* 💻 I like building things from scratch
-* 🧠 I enjoy understanding how things work
-* 🎯 Always trying to improve
-* 🎵 Music is a big part of my life
-* 🏏 Cricket & ⚽ Football enthusiast
+* Studying Engineering
+* Building projects and experimenting with ideas
+* Learning something new every day
+* Improving my problem-solving skills
+* Exploring new areas of technology
+* Learning multiple things at the same time
 
 ---
 
-### 📊 GitHub Stats
+### A Little About Me
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Architttttt-j&show_icons=true&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Architttttt-j&layout=compact&hide_border=true" height="170"/>
-</p>
+* I like building things from scratch
+* I enjoy understanding how things work
+* Always trying to improve
+* Music is a big part of my life
+* Cricket & Football enthusiast
 
----
 
 ### 🐍 Contribution Snake
 
