@@ -28,17 +28,6 @@ I enjoy working on personal projects, experimenting with new ideas, solving prob
 * 🎵 Music is a big part of my life
 * 🏏 Cricket & ⚽ Football enthusiast
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Architttttt-j&show_icons=true&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Architttttt-j&layout=compact&hide_border=true" height="170"/>
-</p>
-
----
-
 ### 🎯 My Stats
 
 <!-- Update the values below whenever your counts change. -->
@@ -52,7 +41,10 @@ I enjoy working on personal projects, experimenting with new ideas, solving prob
 ### 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Architttttt-j/Architttttt-j/output/github-snake.svg" alt="GitHub Contribution Snake"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Architttttt-j/Architttttt-j/output/github-snake-dark.svg"/>
+    <img src="https://raw.githubusercontent.com/Architttttt-j/Architttttt-j/output/github-snake.svg" alt="GitHub Contribution Snake"/>
+  </picture>
 </p>
 
 ---
