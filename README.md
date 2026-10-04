@@ -43,7 +43,7 @@ I enjoy working on personal projects, experimenting with new ideas, solving prob
 
 <p align="center">
   <picture>
-    <img src="https://raw.githubusercontent.com/Architttttt-j/Architttttt-j/output/github-snake.svg" alt="GitHub Contribution Snake"/>
+    <img src="https://raw.githubusercontent.com/Architttttt-j/Architttttt-j/output/github-snake-dark.svg" alt="GitHub Contribution Snake"/>
   </picture>
 </p>
 
