@@ -10,27 +10,6 @@ I like turning random ideas into projects, breaking things just to understand ho
 
 This profile is basically a collection of the things I'm building, learning, experimenting with, and sometimes completely messing up.
 
----
-
-### Currently
-
-* Studying Engineering
-* Building projects and experimenting with ideas
-* Learning something new every day
-* Improving my problem-solving skills
-* Exploring new areas of technology
-* Learning multiple things at the same time
-
----
-
-### A Little About Me
-
-* I like building things from scratch
-* I enjoy understanding how things work
-* Always trying to improve
-* Music is a big part of my life
-* Cricket & Football enthusiast
-
 
 ### 🐍 Contribution Snake
 
