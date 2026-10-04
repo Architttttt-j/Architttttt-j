@@ -1,5 +1,9 @@
 # Hi, I'm Archit 👋
 
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/176208111?v=4" alt="Archit's profile picture" width="140" style="border-radius: 50%;"/>
+</p>
+
 I'm an engineering student from Pune, India, currently exploring, learning, and building things along the way.
 
 I enjoy working on personal projects, experimenting with new ideas, solving problems, and learning from the things I build.
@@ -29,16 +33,26 @@ I enjoy working on personal projects, experimenting with new ideas, solving prob
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Architttttt&show_icons=true&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Architttttt&layout=compact&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Architttttt-j&show_icons=true&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Architttttt-j&layout=compact&hide_border=true" height="170"/>
 </p>
+
+---
+
+### 🎯 My Stats
+
+<!-- Update the values below whenever your counts change. -->
+| Achievement | Count |
+| --- | ---: |
+| 🧩 LeetCode problems solved | — |
+| 📅 GitHub commits this year (2026) | — |
 
 ---
 
 ### 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Architttttt-j/Architttttt-j/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+  <img src="https://raw.githubusercontent.com/Architttttt-j/Architttttt-j/output/github-snake.svg" alt="GitHub Contribution Snake"/>
 </p>
 
 ---
