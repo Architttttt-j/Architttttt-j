@@ -11,8 +11,6 @@ I like turning random ideas into projects, breaking things just to understand ho
 This profile is basically a collection of the things I'm building, learning, experimenting with, and sometimes completely messing up.
 
 
-### 🐍 Contribution Snake
-
 <p align="center">
   <picture>
     <img src="https://raw.githubusercontent.com/Architttttt-j/Architttttt-j/output/github-snake-dark.svg" alt="GitHub Contribution Snake"/>
