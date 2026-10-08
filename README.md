@@ -13,7 +13,14 @@ This profile is basically a collection of the things I'm building, learning, exp
 
 <p align="center">
   <picture>
-    <img src="https://raw.githubusercontent.com/Architttttt-j/Architttttt-j/output/github-snake-dark.svg" alt="GitHub Contribution Snake"/>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/Architttttt-j/Architttttt-j/output/github-snake-dark.svg"
+    />
+    <img
+      src="https://raw.githubusercontent.com/Architttttt-j/Architttttt-j/output/github-snake.svg"
+      alt="GitHub Contribution Snake"
+    />
   </picture>
 </p>
 
